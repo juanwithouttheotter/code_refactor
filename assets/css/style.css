@@ -8,6 +8,7 @@
     background-color: #d9dcd6;
 }
 
+/* Header and Navigation Bar*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -43,6 +44,7 @@
     text-decoration: none;
 }
 
+/* Hero banner */
 .hero {
     height: 40%;
     width: 100%;
@@ -51,6 +53,7 @@
     background-position: center;
 }
 
+/* Main content */
 .content {
     width: 75%;
     display: inline-block;
@@ -86,6 +89,7 @@
     margin-left: 25px;
 }
 
+/* Side bar content*/
 .benefit-aside {
     margin-right: 20px;
     padding: 20px;
@@ -113,6 +117,7 @@
     max-width: 150px;
 }
 
+/* Footer copywrite */
 .footer {
     padding: 30px;
     clear: both;
