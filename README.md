@@ -17,7 +17,7 @@ Pre-set website with refactored html and css code.
 
 ## Contribution
   
-This repository is used for learning purposed please refrain from contributions or forking without explicit permission.
+This repository is used for learning purposes. Please refrain from contributions or forking without explicit permission.
 
 **Contributors**
 
